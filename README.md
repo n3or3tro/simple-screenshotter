@@ -1,4 +1,4 @@
-# Simple Screenshotter
+# simple screenshotter
 Capture, and intelligently store screenshots, simply! Lives in your toolbar (:
 
 ### Motive
